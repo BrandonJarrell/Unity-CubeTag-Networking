@@ -9,12 +9,6 @@ I REALLY wanted to learn how to network a game. I have a vision of my dream game
 
 [Quick Demonstration Of Software](https://youtu.be/9gI1GtWZBRg)
 
-# Useful tutorials & videos
-
-[Using Unity MLAPI (Series)](https://www.youtube.com/watch?v=qJMXv5J4wf4&list=PLbxeTux6kwSAseRmJeCyvkANHsI16PoM6&index=1)
-
-[Unity MLAPI Documentation](https://docs-multiplayer.unity3d.com/docs/getting-started/about/index.html)
-
 # Network Communication
 
 I was using Unity's new MLAPI format for networking which allowed the client to connect through tunnels to a IP address. Each client can select to be a server, host, or a client. I primarily used the client/server model. Every client connects to the host.
