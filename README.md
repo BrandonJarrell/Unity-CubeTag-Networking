@@ -33,4 +33,4 @@ Visual Studio - C#
 
 * Add IP address Input, this will allow connection with anyone hosting
 * Create a version of the game that only runs as a dedicated server that I could run on a Raspberry Pi, allowing anyone to connect through a web browser with the game files.
-* Research other methods of similating physics or faster networking. The game physics and collision can look weird sometimes.
+* Research other methods of similating physics or faster networking. The game physics and collision can look weird sometimes. 
