@@ -15,7 +15,7 @@ I was using Unity's new MLAPI format for networking which allowed the client to 
 
 TCP was used, this is done through the API's reliable methods. 
 
-Each client has a serialized network variables and functions, this Unity's RPC (Remote Procedure Calls). This basically converts the variable to network owned variable. The networked functions are what I defined, allowing for one client to call another clients functions.
+Each client has a serialized network variables and functions, this is Unity's RPC (Remote Procedure Calls). This basically converts the variable to network owned variable. The networked functions are what I defined, allowing for one client to call another clients functions.
 
 # Development Environment
 
